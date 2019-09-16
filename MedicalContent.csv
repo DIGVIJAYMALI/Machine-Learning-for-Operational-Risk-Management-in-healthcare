@@ -1,0 +1,423 @@
+MEDid,ORMid,Name,Rating,Website
+MED_1,ORM_1,Intown Physical Therapy,5,http://www.intownpt.com
+MED_2,ORM_1,Atlanta Sport & Spine Physical Therapy,5,http://www.atlantasportandspine.com
+MED_3,ORM_1,Empower Rehab & Wellness,5,https://www.atlantaempower.com
+MED_4,ORM_1,BenchMark Physical Therapy (Buckhead),5,https://bmrp.com
+MED_5,ORM_1,Sports Rehabilitation Center,4.6,https://www.sportsrehabcenter.com
+MED_6,ORM_1,Inspire Health Buckhead | Atlanta,5,https://inspireatlanta.com
+MED_7,ORM_1,Motion Stability Physical Therapy - BUCKHEAD,4.8,http://motionstability.com
+MED_8,ORM_1,PT Solutions Physical Therapy,4.6,https://ptsolutions.com
+MED_9,ORM_1,OnePoint Physical Therapy,5,https://www.onepointpt.com
+MED_10,ORM_1,The Sports Rehabilitation Center,5,https://www.sportsrehabcenter.com
+MED_11,ORM_2,Healing Hands Physical Therapy,4.9,http://hhands.net
+MED_12,ORM_2,BenchMark Physical Therapy (Augusta West),4.7,https://bmrp.com
+MED_13,ORM_2,Georgialina Physical Therapy - Daniel Village,5,https://georgialinapt.com
+MED_14,ORM_2,Health Success Inc.,5,https://www.healthsuccessaugusta.com
+MED_15,ORM_2,"MAGUIRE THERAPY SERVICES, INC",4.9,https://www.maguiretherapyservices.com
+MED_16,ORM_2,Georgialina Physical Therapy - South Augusta,4.8,https://georgialinapt.com
+MED_17,ORM_2,Georgialina Physical Therapy - West Augusta,4.3,https://georgialinapt.com
+MED_18,ORM_2,Aegis Therapies,5,https://www.aegisoutpatient.com
+MED_19,ORM_2,"Sarah E. Horton, PT",4.3,http://www.hipaaspace.com
+MED_20,ORM_2,Georgialina Physical Therapy - Martinez,NA,https://georgialinapt.com
+MED_21,ORM_3,R & R Rehabilitation,5,https://www.rrrehabilitation.com
+MED_22,ORM_3,BenchMark Physical Therapy (East Columbus),3.7,https://bmrp.com
+MED_23,ORM_3,Southern Rehab & Sports Medicine,5,https://www.southernrehab.com
+MED_24,ORM_3,Atlanta Falcons Physical Therapy Centers,5,NaN
+MED_25,ORM_3,"Joanne C. Oconnor, PT",5,https://www.caredash.com
+MED_26,ORM_3,"Physical Therapy: The Hughston Clinic, P.C.",NA,https://www.hughston.com
+MED_27,ORM_3,Advance Rehabilitation,NA,https://advancerehab.com
+MED_28,ORM_3,Holbrooke Rehabilitation,NA,https://holbrooke.org
+MED_29,ORM_3,"Steve Young, PT",NA,NaN
+MED_30,ORM_4,Macon Rehabilitation & Performance,4.2,http://maconrehabandperformance.com
+MED_31,ORM_4,Therapy Specialists of Georgia,5,http://www.therapyspecialistsofgeorgia.com
+MED_32,ORM_4,Hayden Physical Therapy,5,NaN
+MED_33,ORM_4,Macon Physical Therapy & Rehab,5,http://maconrehabandperformance.com
+MED_34,ORM_4,Physio,4.5,http://www.thehammondscentre.com
+MED_35,ORM_4,"Cynthia A. Shelt-Nix, PT",NA,NaN
+MED_36,ORM_4,Jason R Kent Physical Therapy,NA,https://www.rjasonkentphysicaltherapy.com
+MED_37,ORM_5,BenchMark Physical Therapy (Savannah Victory),5,https://bmrp.com
+MED_38,ORM_5,Southcoast Physical Therapy,5,https://www.southcoasthealth.com
+MED_39,ORM_5,CORA Physical Therapy Savannah,5,https://www.coraphysicaltherapy.com
+MED_40,ORM_5,CORA Physical Therapy Islands,4.9,https://www.coraphysicaltherapy.com
+MED_41,ORM_5,FIFE THERAPY,5,http://www.fifetherapy.com
+MED_42,ORM_5,CORA Physical Therapy Midtown Savannah,4.6,https://www.coraphysicaltherapy.com
+MED_43,ORM_5,Coastal Therapy,3.8,http://www.coastaltherapy.com
+MED_44,ORM_5,Candler Outpatient Rehab Center,4,https://www.sjchs.org
+MED_45,ORM_5,BenchMark Physical Therapy (Savannah Southside),3,https://bmrp.com
+MED_46,ORM_5,St Joseph\'s Outpatient Rehab,NA,https://www.sjchs.org
+MED_47,ORM_6,"East Athens Physical Therapy (Athens, GA)",5,https://eastathenspt.com
+MED_48,ORM_6,PT Solutions Physical Therapy,5,https://ptsolutions.com
+MED_49,ORM_6,Dynamics Physical Therapy,5,http://dynamicspt.com
+MED_50,ORM_6,TherapySouth Athens - Physical Therapy,4.9,https://therapysouth.com
+MED_51,ORM_6,BenchMark Physical Therapy (Athens GA),5,https://bmrp.com
+MED_52,ORM_6,Physio,5,https://www.selectphysicaltherapy.com
+MED_53,ORM_6,Athens Physical Therapy,5,http://www.athenspt.com
+MED_54,ORM_6,"Jennifer R. Peters, PT",3,https://athensorthopedicclinic.com
+MED_55,ORM_6,University Health Center: Physical Therapy Department,NA,http://aptaapps.apta.org
+MED_56,ORM_6,St Mary\'s Occupational Therapy,NA,https://www.stmarysathens.org
+MED_57,ORM_8,Reform Physical Therapy & Pilates,5,https://reformptandpilates.com
+MED_58,ORM_8,"Allied Health & Chiropractic, LLC",4.5,https://www.alliedhealthandchiro.com
+MED_59,ORM_8,Battelle Memorial Institute,5,https://www.battelle.org
+MED_60,ORM_8,CHC Physical Therapy,5,https://chcphysicaltherapy.com
+MED_61,ORM_8,Rebound Physical Therapy,4.7,http://www.ptrebound.com
+MED_62,ORM_8,Allied Health and Chiropractic- Dahodwala Ty DC,4.5,https://www.alliedhealthandchiro.com
+MED_63,ORM_8,"James P. Long III, PT",NA,https://www.healthgrades.com
+MED_64,ORM_8,Advanced Orthopedics & Physical Therapy,NA,https://www.advancedopt.com
+MED_65,ORM_8,Premier Therapy,NA,http://www.embracepremier.com
+MED_66,ORM_8,America\'s Best Transportation,NA,https://www.abesttran.com
+MED_67,ORM_9,Peak Performance Sports Therapy,5,https://www.peakperformancesportstherapy.com
+MED_68,ORM_9,Cornell Physical Therapy,5,http://cornellpt.com
+MED_69,ORM_9,Oxford Physical Therapy Centers,5,https://www.oxfordphysicaltherapy.com
+MED_70,ORM_9,The Howell Rehab Center,5,https://www.howellrehab.com
+MED_71,ORM_9,Guenthner Physical Therapy,4.9,https://guenthnerpt.com
+MED_72,ORM_9,"Beyond Exercise, LLC",4,https://www.gobeyondexercise.com
+MED_73,ORM_9,Good Samaritan Physical Therapy,4.9,https://www.trihealth.com
+MED_74,ORM_9,Oxford Physical Therapy Center,NA,https://www.oxfordphysicaltherapy.com
+MED_75,ORM_9,Mt. Lookout Chiropractic,NA,http://www.mtlookoutchiro.com
+MED_76,ORM_9,Daniel Drake Outpatient Rehabilitation,NA,https://uchealth.com
+MED_77,ORM_10,Alternative Physical Therapy Ltd.,4.5,https://alternativephysicaltherapy.com
+MED_78,ORM_10,Athletico Physical Therapy - Toledo,5,https://www.athletico.com
+MED_79,ORM_10,Koop Family Physical Therapy,5,https://www.physicaltherapytoledo.com
+MED_80,ORM_10,PT Link Physical Therapy - Toledo/Sylvania/Franklin Park,5,https://ptlinktherapy.com
+MED_81,ORM_10,PhysioSource Physical Therapy,5,https://www.physiosource.com
+MED_82,ORM_10,South Toledo Physical Therapy,4.9,https://southtoledopt.com
+MED_83,ORM_10,PT Link Physical Therapy - Toledo/Miracle Mile,5,https://ptlinktherapy.com
+MED_84,ORM_10,Toledo Clinic Physical Therapy,4.9,https://www.toledoclinic.com
+MED_85,ORM_10,Fairwood Chiropractic & Physical Therapy,5,https://www.fairwoodchiropractic.com
+MED_86,ORM_10,East Point Physical Therapy,NA,https://eastpointpt.com
+MED_87,ORM_11,CHICAGO TOP PHYSICAL THERAPY,5,NaN
+MED_88,ORM_11,Core Physical Therapy - The Loop,5,https://www.coreptclinics.com
+MED_89,ORM_11,Best Practice Physical Therapy,5,http://bestpracticept.com
+MED_90,ORM_11,West Town Physical Therapy,NA,https://westtownpt.com
+MED_91,ORM_12,BDI Playhouse Children\'s Therapy Naperville/Aurora,4.9,https://bdiplayhouse.com
+MED_92,ORM_12,Athletico Physical Therapy - Aurora Eola,5,NaN
+MED_93,ORM_12,Physical Therapy Advantage,5,https://www.ptadvantagepc.com
+MED_94,ORM_12,Athletico Physical Therapy - Aurora South,5,https://www.athletico.com
+MED_95,ORM_12,Premier Physical Therapy Aurora,5,https://ptnerve.com
+MED_96,ORM_12,Momentum Physical Therapy - Aurora/Oswego,5,https://momentumphysicaltherapy.com
+MED_97,ORM_13,Excel Physical Therapy - Society Hill,4.8,http://www.excelphysicaltherapy.com
+MED_98,ORM_13,Chestnut Hill Outpatient Therapy,5,https://chestnuthill.towerhealth.org
+MED_99,ORM_13,Wallace & Nilan,5,http://wallaceandnilanpt.com
+MED_100,ORM_13,Atlantic Physical Therapy,3.5,https://aptphilly.com
+MED_101,ORM_13,"FitLife Fitness, Aquatics and Physical Therapy",5,http://www.fitlife.com
+MED_102,ORM_13,Pennsport Physical Therapy,4.6,https://pennsportpt.com
+MED_103,ORM_13,Premier Physical Therapy,4.8,https://www.premierphillypt.com
+MED_104,ORM_13,Zarett Rehab & Fitness,4.9,https://zarettrehab.com
+MED_105,ORM_13,Excel Physical Therapy - Washington Square,5,http://www.excelphysicaltherapy.com
+MED_106,ORM_13,Excel Physical Therapy - Art Museum Area,NA,http://www.excelphysicaltherapy.com
+MED_107,ORM_14,Pittsburgh Physical Medicine and Chiropractic,5,https://www.pittsburghphysmed.com
+MED_108,ORM_14,Manning Physical Therapy & Sports Medicine,5,http://www.manningphysicaltherapy.net
+MED_109,ORM_14,David Physical Therapy and Sports Medicine Center,4.9,https://www.davidphysicaltherapy.com
+MED_110,ORM_14,Lori Wynn Physical Therapy,5,http://www.loriwynnpt.com
+MED_111,ORM_14,Anchor Physical Therapy LLC,5,http://www.anchor-physicaltherapy.com
+MED_112,ORM_14,Healing Motion Physical Therapy and Wellness Center,5,http://www.healing-motion.com
+MED_113,ORM_14,The Pt Group,5,http://physicaltherapyinstitute.com
+MED_114,ORM_14,Manning Physical Therapy & Sports Medicine,5,http://www.manningphysicaltherapy.net
+MED_115,ORM_14,Pivot Physical Therapy,NA,https://www.pivotphysicaltherapy.com
+MED_116,ORM_14,Pivot Physical Therapy,NA,https://www.pivotphysicaltherapy.com
+MED_117,ORM_15,Hands On Healing Physical Therapy Center,4.9,NaN
+MED_118,ORM_15,Robbins Physical Therapy Allentown,5,http://www.robbinsptwest.com
+MED_119,ORM_15,Priority Physical Therapy LLC,5,https://priority-pt.com
+MED_120,ORM_15,NovaCare Rehabilitation,4.8,https://www.novacare.com
+MED_121,ORM_15,Physical Therapy at St. Luke\'s,5,https://www.stlukesphysicaltherapy.com
+MED_122,ORM_15,Physical Therapy at St. Luke\'s,5,https://www.stlukesphysicaltherapy.com
+MED_123,ORM_15,"Premier Physical Therapy, PC",2,https://www.premierphillypt.com
+MED_124,ORM_15,Pivot Physical Therapy,NA,https://www.pivotphysicaltherapy.com
+MED_125,ORM_15,LVHN Inpatient Rehabilitation Center–Cedar Crest,NA,https://www.lvhn.org
+MED_126,ORM_15,Good Shepherd Pediatrics,NA,https://www.goodshepherdpediatrics.org
+MED_127,ORM_16,"ActiveCare Physical Therapy, PC at Best Physical Therapist NYC",4.9,https://www.activecarephysicaltherapy.com
+MED_128,ORM_16,Equilibrium Physical Therapy,4.9,https://equilibriumpt.com
+MED_129,ORM_16,Body Tuning & Physical Therapy,4.6,https://www.nyphysicaltherapist.com
+MED_130,ORM_16,Manhattan Physical Therapy & Pain Center,4.9,https://manhattanptandpain.com
+MED_131,ORM_16,Manhattan Rehabilitation Services,4.9,NaN
+MED_132,ORM_16,"Shmuel Tatz, PhD, PT",4.5,https://www.nyphysicaltherapist.com
+MED_133,ORM_16,"Evolution Physical Therapy, P.C.",5,https://myevolutionphysicaltherapy.com
+MED_134,ORM_16,Zion Physical Therapy,5,https://zionphysicaltherapy.com
+MED_135,ORM_16,SPEAR Physical Therapy,4.8,https://spearcenter.com
+MED_136,ORM_16,Top Care Physical Therapy,4.5,NaN
+MED_137,ORM_17,Rehabilitation Physical Therapy,5,https://www.islandrehab.com
+MED_138,ORM_17,South Nassau Physical Therapy,4.8,NaN
+MED_139,ORM_17,"Island Rehabilitation Assoc. - Physical Therapy, Sports Therapy, Injury Recovery",5,https://www.alignable.com
+MED_140,ORM_17,Total Wellness & Medical Health,5,https://doctor.webmd.com
+MED_141,ORM_17,NY Physical Therapy & Wellness,NA,https://www.nyphysicaltherapy.net
+MED_142,ORM_18,SportsFocus Physical Therapy,4.7,http://www.sportsfocuspt.com
+MED_143,ORM_18,Sports PT of NY,5,http://www.sptny.com
+MED_144,ORM_18,Move Well 1 On 1 Physical Therapy,5,https://movewellbuffalo.com
+MED_145,ORM_18,Amherst Physical Therapy,3.9,http://www.amherstphysicaltherapy.com
+MED_146,ORM_18,All Care Physical Therapy Services PC,4,NaN
+MED_147,ORM_18,Family Care Physical Therapy,4.1,http://www.familycarept.com
+MED_148,ORM_18,Ascend Therapy Group,5,http://www.ascend-pt.com
+MED_149,ORM_18,Advanced Care at HARBORCENTER,4.7,http://www.harborcenter.com
+MED_150,ORM_18,Buffalo Rehab Group,5,http://buffalorehab.com
+MED_151,ORM_18,Glover Physical Therapy and Pain Rehabilitation,4.2,https://www.glovertherapy.com
+MED_152,ORM_19,Excellence In Physical Therapy,5,http://www.excellenceinpt.com
+MED_153,ORM_19,Callan-Harris Physical Therapy,4,http://www.chptusa.com
+MED_154,ORM_19,"Lattimore Physical Therapy, Elmwood Highland",5,https://www.lattimorept.com
+MED_155,ORM_19,Agape Physical Therapy Greece NY,5,https://agapephysicaltherapy.com
+MED_156,ORM_19,Specialty Physical Therapy,5,https://www.specialtyphystherapy.com
+MED_157,ORM_19,Pivot Acupuncture & Physical Therapy,5,http://www.pivotacupt.com
+MED_158,ORM_19,Rochester Physical Therapy and Sports Medicine,5,NaN
+MED_159,ORM_19,Integrated Chiropractic and Physical Therapy,5,https://www.integratedchiroandpt.com
+MED_160,ORM_19,Unity Physical Therapy and Rehabilitation Irondequoit,5,https://www.rochesterregional.org
+MED_161,ORM_19,Pain Relief Center,5,https://myofascialpainrelief.com
+MED_162,ORM_20,Performance Rehabilitation- Yonkers,4.7,https://www.performancerehabny.com
+MED_163,ORM_20,Executive Park Physical Therapy of Yonkers,4.3,http://executiveparkpt.com
+MED_164,ORM_20,"TheraEx Physical Therapy, P.C",5,NaN
+MED_165,ORM_20,MOTION Sports Medicine,4.5,NaN
+MED_166,ORM_20,Optimum Physical Therapy,4.7,https://www.optimumpt.org
+MED_167,ORM_20,TherapyCare Physical Therapy,4.8,NaN
+MED_168,ORM_20,JAG Physical Therapy,5,https://jagonept.com
+MED_169,ORM_20,"TheraMAX Rehabilitation & Sports Physical Therapy, PLLC",5,http://theramaxrehab.com
+MED_170,ORM_20,Professional Physical Therapy,NA,https://www.professionalpt.com
+MED_171,ORM_20,"Christopher M. Disisto, PT",NA,https://www.healthcare6.com
+MED_172,ORM_21,Summit Physical Therapy LLC,3.4,http://www.summitptsyracuse.com
+MED_173,ORM_21,Achieve Physical Therapy and Aquatic Therapy,5,https://www.achieveptandaquatics.com
+MED_174,ORM_21,Carey & Daley Physical Therapy,5,NaN
+MED_175,ORM_21,Brighton Physical Therapy,5,NaN
+MED_176,ORM_21,Physical Therapy Plus Inc,5,https://www.ptpluscny.com
+MED_177,ORM_21,Syracuse Physical Therapy,5,https://www.achieveptandaquatics.com
+MED_178,ORM_21,SOS Orthopedic & Sports Therapy,4.8,https://www.sosbones.com
+MED_179,ORM_21,Crouse Hospital Physical Therapy,4.8,https://www.crouse.org
+MED_180,ORM_21,SUNY Upstate Rehabilitation at IHP,5,http://www.onondagapt.com
+MED_181,ORM_21,Onondaga Physical Therapy,NA,http://www.eliteptone.com
+MED_182,ORM_22,Elite Physical Therapy,4.8,http://www.gregottphysicaltherapy.com
+MED_183,ORM_22,Greg Ott Center for Physical Therapy and Sports Medicine,4.7,http://www.stgeorgept.com
+MED_184,ORM_22,St. George Physical Therapy,5,http://ayrsleyrehab.com
+MED_185,ORM_22,Ayrsley Town Rehabilitation,4.9,https://www.healthyphit.com
+MED_186,ORM_22,Healthy Phit Physical Therapy & Wellness Consultants,5,https://physicaltherapycharlotte.com
+MED_187,ORM_22,Parker Physical Therapy,5,http://www.fullmotionpt.com
+MED_188,ORM_22,Full Motion Physical Therapy,5,https://physiofocuspt.com
+MED_189,ORM_22,PhysioFocus Orthopedic and Sports Therapy LLC,5,NaN
+MED_190,ORM_22,Sports & Spine Physical Therapy,4.9,http://steelecreekphysicaltherapy.com
+MED_191,ORM_22,Steele Creek Physical Therapy & Balance Center,4.7,NaN
+MED_192,ORM_23,Advanced Physical Therapy & Professional Massage,5,https://www.manualmedicinept.com
+MED_193,ORM_23,Manual Medicine Physical Therapy,4.9,https://www.totalmotionpt.com
+MED_194,ORM_23,Total Motion Physical Therapy,5,NaN
+MED_195,ORM_23,Chain Effect Physical Therapy and Performance Enhancement,5,https://www.runraleighpt.com
+MED_196,ORM_23,Run Raleigh PT,5,https://holtpt.com
+MED_197,ORM_23,Holt Physical Therapy,4.9,https://www.breakthrough-pt.com
+MED_198,ORM_23,BreakThrough Physical Therapy,5,http://www.sportsandmorept.com
+MED_199,ORM_23,Sports & More Physical Therapy,5,http://www.trinitywellnesscenter.net
+MED_200,ORM_23,Trinity Wellness Center,5,https://www.pivotphysicaltherapy.com
+MED_201,ORM_23,Pivot Physical Therapy,5,https://www.greensborophysicaltherapy.com
+MED_202,ORM_24,Greensboro Physical Therapy,4.9,https://www.lebauerpt.com
+MED_203,ORM_24,"LeBauer Physical Therapy, LLC",5,NaN
+MED_204,ORM_24,Cedar Hill Physical Therapy,5,https://bmrp.com
+MED_205,ORM_24,"Physical Therapy & Hand Specialists (Greensboro, NC)",5,https://www.pivotphysicaltherapy.com
+MED_206,ORM_24,Pivot Physical Therapy,5,https://www.integrativetherapies.net
+MED_207,ORM_24,Integrative Therapies,4.8,https://proehlificpark.com
+MED_208,ORM_24,Wake Forest Baptist Health - Proehlific Park Physical Therapy,5,https://www.breakthrough-pt.com
+MED_209,ORM_24,BreakThrough Physical Therapy,NA,https://activedgefit.com
+MED_210,ORM_25,ActivEdge Fitness & Sports Performance,5,https://www.nccenterforpt.com
+MED_211,ORM_25,North Carolina Center for Physical Therapy,5,http://www.fitptnc.com
+MED_212,ORM_25,Fit Physical Therapy,5,https://www.pivotphysicaltherapy.com
+MED_213,ORM_25,Pivot Physical Therapy,4.3,https://www.performaxpt.org
+MED_214,ORM_25,PerforMax,5,http://www.synergyfitnessforher.com
+MED_215,ORM_25,Synergy Fitness for Her,5,http://www.chandler-pt.com
+MED_216,ORM_26,Chandler Physical Therapy,5,https://www.selectphysicaltherapy.com
+MED_217,ORM_26,Select Physical Therapy,5,https://www.breakthrough-pt.com
+MED_218,ORM_26,BreakThrough Physical Therapy,3.8,http://www.wcpta.net
+MED_219,ORM_26,Wayne Cannon Physical Therapy & Associates,5,https://www.awarephysicaltherapy.com
+MED_220,ORM_26,Aware Physical Therapy,4.9,http://www.chandler-pt.com
+MED_221,ORM_26,"Jeffrey A. Chandler, PT",5,https://bmrp.com
+MED_222,ORM_26,BenchMark Physical Therapy (Oliver\'s Crossing),5,https://bmrp.com
+MED_223,ORM_26,BenchMark Physical Therapy (Robinhood),5,NaN
+MED_224,ORM_26,Triad Physical Therapy,4.4,https://www.mapquest.com
+MED_225,ORM_26,Medical Plaza - Miller,NA,http://www.aptsnc.com
+MED_226,ORM_27,Advanced Physical Therapy Solutions,5,https://www.breakthrough-pt.com
+MED_227,ORM_27,BreakThrough Physical Therapy,5,https://bmrp.com
+MED_228,ORM_27,"BenchMark Physical Therapy (Fayetteville, NC)",5,https://kebecaresphysicaltherapy.com
+MED_229,ORM_27,Kebe Cares Physical Therapy,4.3,http://www.tanaspt.com
+MED_230,ORM_28,Tanas Physical Therapy,4.9,https://www.pruept.com
+MED_231,ORM_28,Prue Physical Therapy and Sports Performance,5,https://in.linkedin.com
+MED_232,ORM_28,Best Training Resources LLC,4.8,https://carefirstpt.com
+MED_233,ORM_28,Care First Rehab,4.9,https://www.hopt-wellness.com
+MED_234,ORM_28,Hands On Physical Therapy,5,http://www.sportsandmorept.com
+MED_235,ORM_28,Sports & More Physical Therapy,4.8,https://www.breakthrough-pt.com
+MED_236,ORM_28,BreakThrough Physical Therapy,5,https://www.pivotphysicaltherapy.com
+MED_237,ORM_28,Pivot Physical Therapy,4.3,https://www.caryortho.com
+MED_238,ORM_28,Cary Orthopaedics Physical Therapy,NA,https://www.healthcare4ppl.com
+MED_239,ORM_28,"Theresa M. Depaoli-Dunn, PT",NA,http://www.binbpt.com
+MED_240,ORM_29,Bodies in Balance Physical Therapy,4.9,https://www.coraphysicaltherapy.com
+MED_241,ORM_29,CORA Physical Therapy Wilmington,5,NaN
+MED_242,ORM_29,Premier Physical Therapy and Sports Rehab Inc,5,https://ptbythesea.com
+MED_243,ORM_29,PT by the Sea,4.7,https://www.selectphysicaltherapy.com
+MED_244,ORM_29,Select Physical Therapy,5,NaN
+MED_245,ORM_29,Physical Therapy - Velocity Physical Therapy,4.6,https://www.doctor.com
+MED_246,ORM_29,"Sally J. Foster, PT",4.3,http://www.ptservicesofwilmington.com
+MED_247,ORM_29,Physical Therapy Services of Wilmington,NA,https://lifeforcept.com
+MED_248,ORM_29,LifeForce Physical Therapy & Wellness,NA,https://www.manta.com
+MED_249,ORM_29,Lambert Karen,NA,http://bestlifept.com
+MED_250,ORM_30,Best Life Physical Therapy & Sports Medicine,4.7,http://bestlifept.com
+MED_251,ORM_30,Best Life Physical Therapy and Sports Medicine,4.9,http://southeasternpt.com
+MED_252,ORM_30,Southeastern Physical Therapy,NA,http://southeasternpt.com
+MED_253,ORM_31,Southeastern Physical Therapy,5,NaN
+MED_254,ORM_31,In Motion Physical Therapy at Norfolk Fitness & Wellness Center,4,https://www.norfolkphysicaltherapy.com
+MED_255,ORM_31,Norfolk Physical Therapy Center,3.5,http://www.bonsecoursinmotion.com
+MED_256,ORM_31,In Motion Physical Therapy,5,http://bayviewphysicalthera.ipage.com
+MED_257,ORM_31,Bayview Physical Therapy,5,http://www.bonsecoursinmotion.com
+MED_258,ORM_31,Bon Secours In Motion at Norfolk Fitness & Wellness Center,4.6,http://www.thetherapynetwork.com
+MED_259,ORM_31,Therapy Network,3.7,https://www.glassdoor.com
+MED_260,ORM_31,"Tidewater Physical Therapy, Inc.",4.8,http://www.thetherapynetwork.com
+MED_261,ORM_31,Therapy Network,5,NaN
+MED_262,ORM_31,INTEGRATIVE Manual Therapy & Wellness,NA,https://physicaltherapychesapeake.com
+MED_263,ORM_32,Physical Therapy Center of Chesapeake,5,https://www.rptwellness.com
+MED_264,ORM_32,Restorative Physical Therapy,5,http://southeasternpt.com
+MED_265,ORM_32,Southeastern Physical Therapy,4.9,https://www.healinghandsphysicaltherapy.org
+MED_266,ORM_32,Healing Hands Physical Therapy,4,https://www.healthgrades.com
+MED_267,ORM_32,"Michelle Douglas, PT",NA,https://www.thriveptva.com
+MED_268,ORM_33,Thrive Physical Therapy,5,http://www.richmondpt.com
+MED_269,ORM_33,Richmond Physical Therapy,4.8,http://www.advancedwellnessrva.com
+MED_270,ORM_33,Advanced Wellness Centre,4.3,http://centerforpt.net
+MED_271,ORM_33,"Center For Physical Therapy and Sports Medicine, P.C.",4.7,http://www.alliancephysicaltherapyva.com
+MED_272,ORM_33,Alliance Physical Therapy,4.4,https://orthopedicptinc.com
+MED_273,ORM_33,"Orthopedic Physical Therapy,Inc",4.3,https://npino.com
+MED_274,ORM_33,American Homecare Inc,4.6,http://restore-pt.com
+MED_275,ORM_33,Restore PT,5,https://www.pivotphysicaltherapy.com
+MED_276,ORM_33,Pivot Physical Therapy (Westhampton),NA,https://orthopedicptinc.com
+MED_277,ORM_33,"Orthopedic Physical Therapy, Inc",NA,https://www.professionalpt.com
+MED_278,ORM_34,Professional Physical Therapy,4.9,http://www.jointventurespt.com
+MED_279,ORM_34,Joint Ventures Physical Therapy and Fitness,4.9,http://www.jointventurespt.com
+MED_280,ORM_34,Joint Ventures Physical Therapy,5,http://www.jointventurespt.com
+MED_281,ORM_34,Joint Ventures Physical Therapy,5,https://www.spineandsports.org
+MED_282,ORM_34,Spine & Sports Injury Center,4,https://www.professionalpt.com
+MED_283,ORM_34,Professional Physical Therapy,5,https://www.professionalpt.com
+MED_284,ORM_34,Professional Physical Therapy,4.9,https://www.bostonmagazine.com
+MED_285,ORM_34,"BOSTON TOP CENTER,DBA:BOSTON PHYSICAL THERAPY",5,http://www.jointventurespt.com
+MED_286,ORM_34,Joint Ventures Physical Therapy and Fitness,5,https://baystatept.com
+MED_287,ORM_34,Bay State Physical Therapy South Boston,NA,https://worcpt.com
+MED_288,ORM_35,"Worcester Physical Therapy Services, Inc.",4.9,http://www.southcountypt.com
+MED_289,ORM_35,"South County Physical Therapy, Inc",4.4,https://www.dynamicptservices.com
+MED_290,ORM_35,Dynamic Physical Therapy Services,5,https://www.greendalept.com
+MED_291,ORM_35,Greendale Physical Therapy,4.8,https://www.stvincenthospital.com
+MED_292,ORM_35,Saint Vincent Physical Therapy at Worcester Fitness,5,http://www.com
+MED_293,ORM_35,Comeback Physical Therapy,4,https://www.healthgrades.com
+MED_294,ORM_35,"Robert Sadowski, PT",4.9,https://worcpt.com
+MED_295,ORM_35,"Jimmy Kakouris, PT",5,https://www.greendalept.com
+MED_296,ORM_35,Greendale Physical Therapy,NA,https://worcpt.com
+MED_297,ORM_35,Worcester Physical Therapy,NA,https://www.professionalpt.com
+MED_298,ORM_36,Professional Physical Therapy,5,http://www.viprehabilitation.com
+MED_299,ORM_36,VIP Physical Therapy,5,https://www.selectphysicaltherapy.com
+MED_300,ORM_36,Select Physical Therapy,5,NaN
+MED_301,ORM_36,Action Physical Therapy,5,http://www.nhcsrhcc.com
+MED_302,ORM_36,Springfield Rehabilitation Center,5,NaN
+MED_303,ORM_36,Quality Medical & Physical Therapy,4,NaN
+MED_304,ORM_36,Pain Management & Rehab Center,NA,https://www.novacare.com
+MED_305,ORM_36,NovaCare - Main Street-Springfield,NA,https://cambridgeptsportsmed.com
+MED_306,ORM_37,Cambridge Physical Therapy & Sports Medicine,4.2,http://www.jointventurespt.com
+MED_307,ORM_37,Joint Ventures Physical Therapy,4.9,http://backontrackpt.com
+MED_308,ORM_37,Back On Track Physical Therapy,4,https://www.womensjourneyphysicaltherapy.com
+MED_309,ORM_37,Women\'s Journey Physical Therapy,5,http://accelpt.com
+MED_310,ORM_37,Accelerated Physical Therapy,5,http://www.stepaheadpt.com
+MED_311,ORM_37,Step Ahead Physical Therapy,5,https://www.bostonsportsmed.com
+MED_312,ORM_37,Boston Sports Medicine Physical Therapy Cambridge,5,https://woodassociatesphysicaltherapy.com
+MED_313,ORM_37,Wood Associates Physical Therapy,2,http://backontrackpt.com
+MED_314,ORM_37,Back On Track Physical Therapy,3.8,https://locations.atipt.com
+MED_315,ORM_37,ATI Physical Therapy,NA,https://www.suptnashville.com
+MED_316,ORM_38,Susan Underwood Physical Therapy,5,http://p3nashville.com
+MED_317,ORM_38,P3: Precision Physical Therapy & Pilates,5,https://www.resultspt.com
+MED_318,ORM_38,"Results Physiotherapy Nashville, TN-Green Hills",5,https://www.stevekravitz.com
+MED_319,ORM_38,Steve Kravitz Physical Therapy,5,https://www.resultspt.com
+MED_320,ORM_38,"Results Physiotherapy Nashville, TN-Downtown",5,https://www.starpt.com
+MED_321,ORM_38,STAR Physical Therapy,4.3,http://www.advancedphysicaltherapyandrehab.com
+MED_322,ORM_38,Advanced Physical Therapy & Rehab,5,http://impactpttenn.com
+MED_323,ORM_38,Impact Physical Therapy,5,https://www.starpt.com
+MED_324,ORM_38,STAR Physical Therapy,5,https://bmrp.com
+MED_325,ORM_38,BenchMark Physical Therapy (Nashville North),4,https://memphispt.com
+MED_326,ORM_39,Memphis Physical Therapy,4.8,http://holbourntherapy.net
+MED_327,ORM_39,Holbourn Integrated Therapy,4.3,https://www.selectphysicaltherapy.com
+MED_328,ORM_39,Select Physical Therapy,5,https://momentumrehab.com
+MED_329,ORM_39,Momentum Physical Therapy,5,http://www.thesmithclinic.com
+MED_330,ORM_39,The Smith Clinic for Physical Therapy,5,https://www.resultspt.com
+MED_331,ORM_39,"Results Physiotherapy Memphis, TN-Midtown",4.4,http://www.physioplusonline.com
+MED_332,ORM_39,PhysioPlus,5,https://memphispt.com
+MED_333,ORM_39,Memphis Physical Therapy,4.2,http://www.tabororthopedics.com
+MED_334,ORM_39,Tabor Orthopedics,4.7,http://www.orthomemphis.com
+MED_335,ORM_39,Orthomemphis Physical Therapy,NA,NaN
+MED_336,ORM_40,Foothills Physical Therapy & Sports Medicine Center,5,https://www.beyondphysicaltherapy.com
+MED_337,ORM_40,Beyond Physical Therapy,5,NaN
+MED_338,ORM_40,Prompt Physical Therapy Inc,5,NaN
+MED_339,ORM_40,Physical Therapy Specialists,4.8,https://bmrp.com
+MED_340,ORM_40,BenchMark Physical Therapy (Sequoyah Hills),5,https://42floors.com
+MED_341,ORM_40,"Ladawn W. Carr, ATC",4.7,https://bmrp.com
+MED_342,ORM_40,BenchMark Physical Therapy (Northshore),5,NaN
+MED_343,ORM_40,Provision Physical Therapy,5,https://www.kramerphysicaltherapy.com
+MED_344,ORM_40,Kramer Physical Therapy,NA,https://www.healthgrades.com
+MED_345,ORM_40,"Thaddeus Mackiewicz Jr, PT",NA,https://www.summit-therapy.com
+MED_346,ORM_41,Summit Physical Therapy Red Bank,4.9,https://www.summit-therapy.com
+MED_347,ORM_41,Summit Physical Therapy Chattanooga Downtown,4.9,https://www.summit-therapy.com
+MED_348,ORM_41,Summit Physical Therapy Hixson,5,http://chattpt.com
+MED_349,ORM_41,"Specialized Physical Therapy, PLLC",5,https://bmrp.com
+MED_350,ORM_41,"BenchMark Physical Therapy (Downtown Chattanooga, TN)",5,https://www.chattanoogaphysicaltherapist.com
+MED_351,ORM_41,Chattanooga Physical Therapy,5,https://www.resultspt.com
+MED_352,ORM_41,"Results Physiotherapy Chattanooga, TN - Gunbarrel North",4.4,https://bmrp.com
+MED_353,ORM_41,"BenchMark Physical Therapy (Southside Chattanooga, TN)",5,https://bmrp.com
+MED_354,ORM_41,BenchMark Physical Therapy (Hwy 58),5,https://locations.atipt.com
+MED_355,ORM_41,ATI Physical Therapy,NA,https://www.resultspt.com
+MED_356,ORM_42,"Results Physiotherapy Clarksville, TN-North",4,https://www.selectphysicaltherapy.com
+MED_357,ORM_42,Select Physical Therapy,5,https://www.resultspt.com
+MED_358,ORM_42,"Results Physiotherapy Clarksville, TN-Sango",4.9,https://advancedtherapy.net
+MED_359,ORM_42,Advanced Therapy Solutions,4.7,https://www.selectphysicaltherapy.com
+MED_360,ORM_42,Select Physical Therapy - Clarksville-Landrum,5,http://highpointetherapy.com
+MED_361,ORM_42,High Pointe Therapy,4.9,NaN
+MED_362,ORM_42,Tennessee Center of Integrated Medicine,5,https://www.selectphysicaltherapy.com
+MED_363,ORM_42,Select Physical Therapy,5,https://www.starpt.com
+MED_364,ORM_42,Star PT Clarksville North,4.8,https://www.starpt.com
+MED_365,ORM_42,STAR Physical Therapy,NA,https://ptsmc.com
+MED_366,ORM_44,Physical Therapy & Sports Medicine Centers,4.8,http://www.temple-pt.com
+MED_367,ORM_44,Temple Physical Therapy,3,https://www.ynhh.org
+MED_368,ORM_44,Yale New Haven Hospital Spine Center,3.3,https://www.mactivity.com
+MED_369,ORM_44,mActivity Physical Therapy,4.9,https://www.healthgrades.com
+MED_370,ORM_44,"Michael Cianciulli, RPT",5,https://www.bikramyogact.com
+MED_371,ORM_44,True Bikram Yoga,5,https://amwell.com
+MED_372,ORM_44,"Anjelica Shiromani, DPT",NA,https://peakptw.com
+MED_373,ORM_44,"Brian Tenenhaus, PT",NA,https://www.amitypt.com
+MED_374,ORM_44,Amity Physical Therapy,NA,http://www.temple-pt.com
+MED_375,ORM_44,Temple Physical Therapy,NA,https://performance-pt.com
+MED_376,ORM_45,Performance Physical Therapy And Wellness,5,http://www.stamfordsportsandspine.com
+MED_377,ORM_45,Stamford Sports & Spine,4.9,https://www.bigleapsct.com
+MED_378,ORM_45,Big Leaps - Pediatric Therapy,5,https://www.accessphysicaltherapywellness.com
+MED_379,ORM_45,Access Physical Therapy & Wellness,5,https://ctdancephysicaltherapy.com
+MED_380,ORM_45,Connecticut Dance Physical Therapy LLC,5,https://onsmd.com
+MED_381,ORM_45,ONS Physical Therapy Stamford,5,https://integrehab.com
+MED_382,ORM_45,Integrated Rehabilitation Services,5,https://www.healthcare4ppl.com
+MED_383,ORM_45,Moore Center,4.6,https://www.professionalpt.com
+MED_384,ORM_45,Professional Physical Therapy,5,https://www.stamfordhealth.org
+MED_385,ORM_45,Stamford Physical Therapy,NA,https://www.selectphysicaltherapy.com
+MED_386,ORM_46,Select Physical Therapy,5,https://www.integratedlifetherapy.com
+MED_387,ORM_46,Integrated Physical Therapy,4.6,https://www.totalcarephysicaltherapy.com
+MED_388,ORM_46,Total Care Physical Therapy & Sports Medicine,4.7,http://ctpts.com
+MED_389,ORM_46,Connecticut Physical Therapy Specialists,5,NaN
+MED_390,ORM_46,Global Physical Therapy,4.9,https://www.selectphysicaltherapy.com
+MED_391,ORM_46,Select Physical Therapy,5,http://ctpts.com
+MED_392,ORM_46,Connecticut Physical Therapy,NA,https://www.selectphysicaltherapy.com
+MED_393,ORM_46,Select Physical Therapy,NA,http://www.livefit.org
+MED_394,ORM_46,LiveFit,NA,http://coraonline.com
+MED_395,ORM_46,Cora LLC,NA,https://twinboro.com
+MED_396,ORM_47,Twin Boro Physical Therapy,4.2,http://www.eliteptnj.com
+MED_397,ORM_47,Elite Physical Therapy,4.9,https://www.professionalpt.com
+MED_398,ORM_47,Professional Physical Therapy,4.8,NaN
+MED_399,ORM_47,Roseville Physical Therapy,4.4,http://foresthillpt.com
+MED_400,ORM_47,Forest Hill Physical Therapy,5,http://www.aironpt.com
+MED_401,ORM_47,AirOn PT,4.8,https://twinboro.com
+MED_402,ORM_47,"Konrad Roslonek, PT",NA,https://www.ivyrehab.com
+MED_403,ORM_47,Ivy Rehab Physical Therapy,NA,http://www.tcphysicaltherapynj.com
+MED_404,ORM_47,Total Care Physical Therapy,NA,NaN
+MED_405,ORM_48,Top Choice Physical Therapy and Wellness,4.8,https://www.libertyptnj.com
+MED_406,ORM_48,Liberty Physical Therapy PC,5,NaN
+MED_407,ORM_48,"Complete Physical Rehabilitation - Physical Therapy Jersey City, Elizabeth, NJ",5,https://www.exchangephysicaltherapygroup.com
+MED_408,ORM_48,Exchange Physical Therapy Group,5,http://abetterlifept.com
+MED_409,ORM_48,A Better Life Physical Therapy,5,NaN
+MED_410,ORM_48,Top Choice Physical Therapy and Wellness,5,NaN
+MED_411,ORM_48,Harborside Sport & Spine,5,http://www.inhomepediatricpt.com
+MED_412,ORM_48,In-Home Pediatric Physical Therapy of New Jersey,5,https://www.lifeinmotionpt.com
+MED_413,ORM_48,Life in Motion Physical Therapy and Wellness,NA,https://www.linkedin.com
+MED_414,ORM_48,"Chitra Kothari, PT",NA,https://www.goodreads.com
+MED_415,ORM_50,Best Medical,5,NaN
+MED_416,ORM_50,"Complete Physical Rehabilitation - Physical Therapy Jersey City, Elizabeth, NJ",5,NaN
+MED_417,ORM_50,Ace Physical Therapy and Wellness Center,4.8,https://www.kesslerrehabilitationcenter.com
+MED_418,ORM_50,Kessler Rehabilitation Center,5,http://www.tcphysicaltherapynj.com
+MED_419,ORM_50,Total Care Physical Therapy,4.7,https://www.kesslerrehabilitationcenter.com
+MED_420,ORM_50,Kessler Rehabilitation Center,4.5,NaN
+MED_421,ORM_50,Aby Rehab,3,https://www.healthgrades.com
+MED_422,ORM_50,"Asha Koshy, PT",NA,
